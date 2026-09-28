@@ -1,4 +1,4 @@
-python-telegram-bot[job-queue]==21.10
+python-telegram-bot[job-queue]==22.8
 python-dotenv==1.0.1
 httpx==0.28.1
 feedparser==6.0.11
