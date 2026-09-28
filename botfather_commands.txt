@@ -1,0 +1,15 @@
+start - Start the bot
+help - Show help and how to use
+topics - Pick industry then focus
+menu - Same as /topics
+news - Same as /topics
+refresh - Reload 7 latest for current pick
+upcoming - Movies/series by date or month
+create - Reply to a post - Burmese article
+photo - Reply to a post - find photos
+search - Search news + TMDB (7 results)
+posts - View saved Burmese drafts
+style - Set short/detailed and writing tone
+rewrite - Rewrite your last draft with instructions
+status - Keys, topic, API status
+commands - Show BotFather command menu text
